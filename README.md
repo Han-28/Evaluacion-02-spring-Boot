@@ -8,7 +8,7 @@ Proyecto de ejemplo para evaluar conceptos de Spring Boot con manejo de medicame
 
 ## Requisitos
 
-- Java 11+  
+- Java 23+  
 - Maven  
 - Base de datos MySQL (o la que uses)  
 - Postman para probar APIs REST
